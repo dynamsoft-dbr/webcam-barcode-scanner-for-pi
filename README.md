@@ -2,7 +2,6 @@
 
 The sample demonstrates how to use [Dynamsoft Barcode Reader SDK](http://www.dynamsoft.com/Products/Dynamic-Barcode-Reader.aspx) and Python to build a barcode scanner with Raspberry Pi and USB Webcam.
 
-![webcam and raspberry pi](http://www.codepool.biz/wp-content/uploads/2016/04/raspberrypi_webcam.jpg)
 
 ## Getting Started
 
