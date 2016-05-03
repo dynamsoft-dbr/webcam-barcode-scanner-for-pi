@@ -42,3 +42,6 @@ Read [How to install OpenCV 3 on Raspbian Jessie](http://www.pyimagesearch.com/2
 3. Press key 'C' to capture and read barcode.
 
     ![Raspberry Pi Node.js Barcode Reader](http://www.codepool.biz/wp-content/uploads/2016/04/rpi_barcode_scanner_result.png)
+
+## Blog
+[Raspberry Pi Barcode Scanner with Webcam and Python](http://www.codepool.biz/raspberrypi-barcode-scanner-webcam-python.html)
