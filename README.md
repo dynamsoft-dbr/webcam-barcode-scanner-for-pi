@@ -10,7 +10,7 @@ The sample demonstrates how to use [Dynamsoft Barcode Reader SDK](http://www.dyn
 2. Extract the package and generate a symbolic link:
 
     ```
-    sudo ln -s $(DynamsoftBarcodeReader)/lib/libDynamsoftBarcodeReader.so /usr/lib/libDynamsoftBarcodeReader.so
+    sudo ln -s <Your library path>/libDynamsoftBarcodeReader.so /usr/lib/libDynamsoftBarcodeReader.so
     ```
 3. Visit [license page](http://www.dynamsoft.com/CustomerPortal/Account/GetTrialLicense.aspx?Product=DBR) to get a trial license.
 
